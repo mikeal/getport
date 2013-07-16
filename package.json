@@ -1,0 +1,22 @@
+{
+  "name": "getport",
+  "version": "0.0.0",
+  "description": "Find an open port to listen on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/getport"
+  },
+  "keywords": [
+    "port",
+    "open"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mikeal/getport/issues"
+  }
+}
