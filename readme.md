@@ -4,7 +4,7 @@
 
 Find an open port to listen on.
 
-#### `getport(function (e, port) {})``
+#### `getport(function (e, port) {})`
 
 ```javascript
 var getport = require('getport')
