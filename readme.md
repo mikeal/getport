@@ -1,5 +1,7 @@
 ### getport
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/getport.svg)](https://greenkeeper.io/)
+
 `npm install getport`
 
 Find an open port to listen on.
